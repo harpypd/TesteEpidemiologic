@@ -1,0 +1,8 @@
+# ══════════════════════════════════════════════════════════════════
+# Simulador de Coinfecção Aerossólica & Antigenic Shift
+# Dependências Python
+# ══════════════════════════════════════════════════════════════════
+
+streamlit>=1.35.0       # Framework de aplicações web científicas
+numpy>=1.26.0           # Computação numérica e geração estocástica (Monte Carlo)
+pandas>=2.2.0           # Manipulação de dados e DataFrames para visualização
